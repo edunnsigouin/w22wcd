@@ -1,1 +1,1 @@
-# w22wcd
+Materials for my contribution to Woollings et al. 2022 titled "The role of Rossby waves in polar weather and climate" submitted to the journal weather and climate dynamics. Specifically, the materials include code and post-processed data to reproduce figures 5 and 6. Raw ERA-Interim reanalysis data can be found here https://www.ecmwf.int/en/forecasts/datasets/reanalysis-datasets/era-interim 
